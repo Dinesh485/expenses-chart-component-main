@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.tick text{
+    @apply text-sm text-Medium-brown font-Dm-sans ;
+}
+#chart > .bar{
+
+}
