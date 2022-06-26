@@ -13,7 +13,7 @@ This is a solution to the [Expenses chart component challenge on Frontend Mentor
 - [Author](#author)
 
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 
