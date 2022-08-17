@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/expenses-chart-component-with-html-css-and-js-YWtd8T4BXZ](https://www.frontendmentor.io/solutions/expenses-chart-component-with-html-css-and-js-YWtd8T4BXZ)
-- Live Site URL: [https://aquamarine-boba-3485c3.netlify.app/](https://aquamarine-boba-3485c3.netlify.app/)
+- Live Site URL: [https://expenses-chart-d3.netlify.app](https://expenses-chart-d3.netlify.app)
 
 ## My process
 
